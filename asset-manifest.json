@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/mysite/static/css/main.dbc51a20.chunk.css",
+    "main.js": "/mysite/static/js/main.29a3c713.chunk.js",
+    "main.js.map": "/mysite/static/js/main.29a3c713.chunk.js.map",
+    "runtime-main.js": "/mysite/static/js/runtime-main.bf94853b.js",
+    "runtime-main.js.map": "/mysite/static/js/runtime-main.bf94853b.js.map",
+    "static/js/2.344d0076.chunk.js": "/mysite/static/js/2.344d0076.chunk.js",
+    "static/js/2.344d0076.chunk.js.map": "/mysite/static/js/2.344d0076.chunk.js.map",
+    "index.html": "/mysite/index.html",
+    "precache-manifest.90ac808869c5b19d4f2c7c2a816f92c1.js": "/mysite/precache-manifest.90ac808869c5b19d4f2c7c2a816f92c1.js",
+    "service-worker.js": "/mysite/service-worker.js",
+    "static/css/main.dbc51a20.chunk.css.map": "/mysite/static/css/main.dbc51a20.chunk.css.map",
+    "static/js/2.344d0076.chunk.js.LICENSE.txt": "/mysite/static/js/2.344d0076.chunk.js.LICENSE.txt",
+    "static/media/rosetta1.png": "/mysite/static/media/rosetta1.676b68bd.png",
+    "static/media/rosetta2.png": "/mysite/static/media/rosetta2.08ba3dce.png",
+    "static/media/tulip1.png": "/mysite/static/media/tulip1.37ca3b60.png",
+    "static/media/tulip2.png": "/mysite/static/media/tulip2.501cdcd7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf94853b.js",
+    "static/js/2.344d0076.chunk.js",
+    "static/css/main.dbc51a20.chunk.css",
+    "static/js/main.29a3c713.chunk.js"
+  ]
+}
