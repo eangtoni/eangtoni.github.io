@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "./static/css/main.dbc51a20.chunk.css",
-    "main.js": "./static/js/main.4ff75045.chunk.js",
-    "main.js.map": "./static/js/main.4ff75045.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.6fddcb34.js",
-    "runtime-main.js.map": "./static/js/runtime-main.6fddcb34.js.map",
-    "static/js/2.0fb63ae3.chunk.js": "./static/js/2.0fb63ae3.chunk.js",
-    "static/js/2.0fb63ae3.chunk.js.map": "./static/js/2.0fb63ae3.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.b7f1a7d0bd2f79441e4803ff6af28e66.js": "./precache-manifest.b7f1a7d0bd2f79441e4803ff6af28e66.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/main.dbc51a20.chunk.css.map": "./static/css/main.dbc51a20.chunk.css.map",
-    "static/js/2.0fb63ae3.chunk.js.LICENSE.txt": "./static/js/2.0fb63ae3.chunk.js.LICENSE.txt",
-    "static/media/rosetta1.png": "./static/media/rosetta1.676b68bd.png",
-    "static/media/rosetta2.png": "./static/media/rosetta2.08ba3dce.png",
-    "static/media/tulip1.png": "./static/media/tulip1.37ca3b60.png",
-    "static/media/tulip2.png": "./static/media/tulip2.501cdcd7.png"
+    "main.css": "/mysite/static/css/main.dbc51a20.chunk.css",
+    "main.js": "/mysite/static/js/main.eba2f7d4.chunk.js",
+    "main.js.map": "/mysite/static/js/main.eba2f7d4.chunk.js.map",
+    "runtime-main.js": "/mysite/static/js/runtime-main.1d89857a.js",
+    "runtime-main.js.map": "/mysite/static/js/runtime-main.1d89857a.js.map",
+    "static/js/2.0fb63ae3.chunk.js": "/mysite/static/js/2.0fb63ae3.chunk.js",
+    "static/js/2.0fb63ae3.chunk.js.map": "/mysite/static/js/2.0fb63ae3.chunk.js.map",
+    "index.html": "/mysite/index.html",
+    "precache-manifest.2c1d1010a163377a70d6583d62c0d776.js": "/mysite/precache-manifest.2c1d1010a163377a70d6583d62c0d776.js",
+    "service-worker.js": "/mysite/service-worker.js",
+    "static/css/main.dbc51a20.chunk.css.map": "/mysite/static/css/main.dbc51a20.chunk.css.map",
+    "static/js/2.0fb63ae3.chunk.js.LICENSE.txt": "/mysite/static/js/2.0fb63ae3.chunk.js.LICENSE.txt",
+    "static/media/rosetta1.png": "/mysite/static/media/rosetta1.676b68bd.png",
+    "static/media/rosetta2.png": "/mysite/static/media/rosetta2.08ba3dce.png",
+    "static/media/tulip1.png": "/mysite/static/media/tulip1.37ca3b60.png",
+    "static/media/tulip2.png": "/mysite/static/media/tulip2.501cdcd7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6fddcb34.js",
+    "static/js/runtime-main.1d89857a.js",
     "static/js/2.0fb63ae3.chunk.js",
     "static/css/main.dbc51a20.chunk.css",
-    "static/js/main.4ff75045.chunk.js"
+    "static/js/main.eba2f7d4.chunk.js"
   ]
 }
